@@ -1,0 +1,17 @@
+[
+    {
+        "id": 4,
+        "email": "sancho@gmail.com",
+        "username": null,
+        "image": "/media/users/images/fon2.jpg",
+        "date_of_birth": "2024-10-16",
+        "deleted": "2024-10-16 16:48:47.775985"
+    },
+    {
+        "id": 6,
+        "email": "john@gmail.com",
+        "username": "",
+        "date_of_birth": "2024-10-16",
+        "deleted": "2024-10-16 17:48:24.076467"
+    }
+]

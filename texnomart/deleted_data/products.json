@@ -1,0 +1,38 @@
+[
+    {
+        "id": 4,
+        "name": "gdfg",
+        "slug": "gdfg",
+        "description": "",
+        "price": 56.0,
+        "discount": 0,
+        "quantity": 0,
+        "users_like": "users.User.None",
+        "category": "telefonlar",
+        "deleted": "2024-10-16 16:15:47.299873"
+    },
+    {
+        "id": 1,
+        "name": "iphone 15 pro",
+        "slug": "iphone-15-pro",
+        "description": "juda alo ota zor",
+        "price": 41.0,
+        "discount": 0,
+        "quantity": 0,
+        "users_like": "users.User.None",
+        "category": "telefonlar",
+        "deleted": "2024-10-16 16:16:43.268105"
+    },
+    {
+        "id": 3,
+        "name": "sumsung s21 ultra",
+        "slug": "sumsung-s21-ultra",
+        "description": "msdad",
+        "price": 0.0,
+        "discount": 0,
+        "quantity": 0,
+        "users_like": "users.User.None",
+        "category": "mashinalar",
+        "deleted": "2024-10-16 16:19:30.655730"
+    }
+]

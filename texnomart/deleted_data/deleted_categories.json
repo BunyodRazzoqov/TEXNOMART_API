@@ -1,0 +1,40 @@
+[
+    {
+        "id": 7,
+        "title": "mina",
+        "slug": "mina",
+        "image": "/media/category/2024/10/16/AOOQ7185.JPG",
+        "deleted": "2024-10-16 16:06:08.528879"
+    },
+    {
+        "id": 9,
+        "title": "komil",
+        "slug": "komil",
+        "deleted": "2024-10-16 16:08:37.028057"
+    },
+    {
+        "id": 11,
+        "title": "jbdskja",
+        "slug": "jbdskja",
+        "image": "/media/category/2024/10/16/Circle-icons-profile.svg.png",
+        "deleted": "2024-10-16 16:08:50.433482"
+    },
+    {
+        "id": 8,
+        "title": "salom",
+        "slug": "salom",
+        "deleted": "2024-10-16 16:09:03.436807"
+    },
+    {
+        "id": 10,
+        "title": "kurtyks",
+        "slug": "kurtyks",
+        "deleted": "2024-10-16 16:09:03.437806"
+    },
+    {
+        "id": 13,
+        "title": "maishiy texnika",
+        "slug": "maishiy-texnika",
+        "deleted": "2024-10-16 17:28:15.670600"
+    }
+]
